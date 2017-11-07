@@ -3,7 +3,7 @@ import java.io.*;
 import javax.swing.JOptionPane;
 
 /**
- * Authors: Janujan Gathieswaran and Joshua Nandall
+ * Authors: Janujan Gathieswaran
  * Date: October 1 2016
  * Description: This program loads phrases from a file into an array of Strings
  */
